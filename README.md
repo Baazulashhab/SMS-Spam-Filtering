@@ -1,5 +1,5 @@
 SMS Spam Collection v.1
--------------------------
+Dataset
 
 1. DESCRIPTION
 --------------
